@@ -33,7 +33,7 @@
 
 ## Overview
 
-![screenshot](/screenshots/screenshot.png)
+![screenshot](/screenshots/recipe.png)
 
 ### Built With
 
